@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: right">
+<div style="text-align: justify">
 Hello!
 I am Ph.D. student at [Victor Lab](https://www.victor-uva.org/) in the Mechanical and Aerospace Engineering Department, University of Virginia. My advisor is [Dr. Tomonari Furukawa](https://engineering.virginia.edu/faculty/tomonari-furukawa).
 
