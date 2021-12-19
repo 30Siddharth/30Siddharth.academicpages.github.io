@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: right">
 Hello!
 I am Ph.D. student at [Victor Lab](https://www.victor-uva.org/) in the Mechanical and Aerospace Engineering Department, University of Virginia. My advisor is [Dr. Tomonari Furukawa](https://engineering.virginia.edu/faculty/tomonari-furukawa).
 
@@ -14,7 +15,7 @@ My research is focused on robotic systems. I work primarily with high precision 
 
 Before joining the lab I completed my Masters' in Mechanical Engineering (Robotics and Mechatronic systems) from the University of Pennsylvania. Here I worked with Dr. Manfred Morari and [Dr. Mahyar Fazlyab](https://www.ece.jhu.edu/mahyarfazlyab/). 
 
-I like solving puzzles, playing badminton, and reading books in my free time. 
+I like solving puzzles, playing badminton, and reading books in my free time. </div>
 
 Getting started
 ======
