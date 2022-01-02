@@ -1,3 +1,9 @@
+--- 
+permalink: /teaching/
+title: "Teaching"
+---
+
+
 # Teaching
 
 ## Experimental Robotics (MAE 4501/6592) - Fall 2021
@@ -11,3 +17,6 @@
 
 ## Model Predictive Control (ESE 619) - Spring 2020
 ### Grader - University of Pennsylvania
+
+
+
