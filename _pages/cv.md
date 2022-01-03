@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+===
+Autonomous Systems, Mobile Robots, Path Planning, Motion Planning, Navigation, 3D Reconstruction
+
 Education
 ======
 * Ph.D in Mechanical and Aerospace Engineering, University of Virginia, 2024 (expected)
