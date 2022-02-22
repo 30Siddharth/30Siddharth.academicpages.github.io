@@ -7,3 +7,6 @@ features with sub-millimeter size.
 ## Related Publications:
 1. **Photometeric Stereo Enhanced Light Sectioning Apporach for Microtexture Road Profiling**, 
 Submitted, International Design Engineering Technical Conferences \& Computers and Information in Engineering Conference, 2022.
+
+
+![Asphalt Colored Surface 100mm by 66 mm]('images/Asp_color_surf.jpg')
