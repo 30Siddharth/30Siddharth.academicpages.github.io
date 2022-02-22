@@ -37,22 +37,22 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Photometeric Stereo Enhanced Light Sectioning Apporach for Microtexture Road Profiling, *Submitted*, International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, 2022.
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+**Link Lab Flash Talks (Awardee)**(Feb 17, 2022)
+Structure from Intensity: High Precision 3D Reconstruction
+
+**MAE Graduate Seminar Speaker**(Feb 4, 2022)
+Structure from Intensity: High Precision 3D Reconstruction
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+**Conference Review**
+  International Conference for Robotic Applications, 2021
+  International Conference for Robotic Applications, 2022
