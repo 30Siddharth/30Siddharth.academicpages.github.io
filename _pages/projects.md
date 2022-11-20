@@ -11,7 +11,7 @@ My current research focuses on high precision 3D reconstruction. There are sever
 * [Multi Robot Mapping](/_pages/MultiRobo_projects.md)
 Another project that I have been working towards is the multi-robot mapping. Mapping large environment can be painstaking and time consuming process. In our project we are working towards developing a multirobot setup for the purpose of mapping and planning tasks with a team of robots.  
 
-* [Path Planning](/_pages/pathplanning_projects.md)
+* [Path Planning]([https://sites.google.com/seas.upenn.edu/30siddharth/projects/autonomous-uav?authuser=0])
 Planning and controls are at the heart of autonomous systems. The problems in this field can vary a lot and the biggest task being able to handle the steep climb in the complexity, both in terms of implementation and conceptualization. The outcome is equally satistfying. I have had the opportunity to work with planning algorithms at both the levels. In brief I have worked with 3 major types of planning algorithms:
     + Vector Field (Attraction based)
     + Graph Search (A-star, Dijsktra, RRT, RRT-star)
