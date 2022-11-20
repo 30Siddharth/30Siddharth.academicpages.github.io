@@ -17,7 +17,7 @@ Planning and controls are at the heart of autonomous systems. The problems in th
     + Graph Search (A-star, Dijsktra, RRT, RRT-star)
     + Optimal Path (Planning in continous state space)
 
-* [NN Based System Identification](/_pages/sysid_projects.md)
+* [NN Based System Identification](https://sites.google.com/seas.upenn.edu/30siddharth/projects/optimal-controls-graph-search-state-estimation?authuser=0)
 System Identification has been studied in great depth in the field of controls theory. In this project my aim to discover the ability of a neural netwrok to learn the dynamics of a Unamanned Underwater Vehicle. The dynamics of a UUV can very complicated. For the purpose of the study, the NN was trained with simple predictable trajectories which was tested against the PRBS excited model.  
 
 * [Mechatronics](https://sites.google.com/seas.upenn.edu/30siddharth/projects/mechatronics?authuser=0)
