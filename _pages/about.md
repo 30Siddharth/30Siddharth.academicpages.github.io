@@ -16,3 +16,5 @@ Before joining the lab I completed my Masters' in Mechanical Engineering (Roboti
 
 I like solving puzzles, playing badminton, and reading books in my free time.
 
+*This is my new wesbite and it is still under works. Some of the information is missing. If you are interested to know more, please feel free to drop me an email.*
+
