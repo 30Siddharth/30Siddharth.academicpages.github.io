@@ -18,8 +18,8 @@ As robots make their way into our daily lives, one of the primary goals is to ma
 Education
 ======
 * Ph.D in Mechanical and Aerospace Engineering, University of Virginia
-* M.S. in Mechanical Engineering and Applied Mechanics, University of Pennsylvania, 2020
-* B.S. in Manufacturing Process and Automation Engineering, NSIT, Delhi University, 2018
+* M.S.E. in Mechanical Engineering and Applied Mechanics, University of Pennsylvania, 2020
+* B.E. in Manufacturing Process and Automation Engineering, NSIT, Delhi University, 2018
 
 Work experience
 ======
