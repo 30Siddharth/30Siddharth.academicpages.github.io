@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: "High Resolution 3D Reconstruction"
-permalink: /_pages/
+title: "Photomertic Setereo and 3D Reconstruction"
+permalink: /projects/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 # High Precision 3D Reconstruction
 We are surrounded by several objects with different characteristics. They can vary based on both material and the object geometry. 
@@ -17,7 +21,6 @@ features with sub-millimeter size.
 [2] Singh S., and Furukawa T., Robust Statistical Approach for Separating Lambertian and Non-Lambertian Observations for Photometric Stereo using color DRM, Conference on Robotics and Vision, 2023
 
 [3] Singh S., Smith K. \& Furukawa T., Photometric Stereo Enhanced Light Sectioning Approach for Microtexture Road Profiling, Proceedings of the ASME 2022 IDTEC/CIE Conference. St. Louis, Missouri, USA. August 14–17, 2022.
-
 
 
 
