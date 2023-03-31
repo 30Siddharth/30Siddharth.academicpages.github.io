@@ -73,17 +73,17 @@ MAE 4710 (UVA) - Mechatronics  Spring 2021\
 MAE 2330 (UVA) - Mechanics Lab  Spring 2023\
 **Grader**\
 ESE 619 (UPenn) - Model Predictive Control  Spring 2020\
-ESE 615 (UPenn) - Non-linear Control  Fall 2019\
+ESE 615 (UPenn) - Non-linear Control  Fall 2019
   
 Service and leadership
 ======
 **Conference Review**\
  ICRA - 2021, 2022, 2023\
 IROS - 2022, 2023\
-ASME IDETC/CIE - 2022, 2023\
+ASME IDETC/CIE - 2022, 2023
 
 **Journal Review**\
-Signal, Image and Video Processing, Springer\
+Signal, Image and Video Processing, Springer
 
 **Student Organization**\
 Social Chair - MAE Graduate Student Board (UVA) 2022-2023\
