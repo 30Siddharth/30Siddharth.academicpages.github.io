@@ -1,19 +1,16 @@
 ---
 layout: archive
 title: "Photomertic Setereo and 3D Reconstruction"
-permalink: /projects/
+permalink: /projects/PS3D.html
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
 # High Precision 3D Reconstruction
 We are surrounded by several objects with different characteristics. They can vary based on both material and the object geometry. 
 3D reconstruction allows robots or machines to accese high-fidleity information. High resolution measurement using active lighting has been 
 a pivot of my research during my Ph.D. The aim is to use controlled lighting (and preferablly uncontrolled lighting conditions) to measure 
-features with sub-millimeter size. 
+features with sub-millimeter resolution. 
 
 ### Related Publications:
 [1] Singh S. \& Furukawa T., Photometric Stereo of Surfaces with Heterogeneous Reflection using Adaptive Diffuse-Specular Segregation, Journal or Mathematical Imaging and Vision, Springer, 2023, https://doi.org/10.21203/rs.3.rs-2464826/v1
