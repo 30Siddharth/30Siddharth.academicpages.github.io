@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 Hello!
-I am Ph.D. student in the Mechanical and Aerospace Engineering Department, University of Virginia. My advisor is [Dr. Tomonari Furukawa](https://engineering.virginia.edu/faculty/tomonari-furukawa). I passed my qualifier exam in September 2022.
+I am Ph.D. student in the Mechanical and Aerospace Engineering Department, University of Virginia.
 
-My research is focused on robotic systems. I work primarily with robotic perception and controls for dynamical system. The problems that I tackle lie at the confluence of optimization, decision theory and information fusion. My aim is to develop the research skills and a robust knowledge base to be able to work with the complete stack in a mobile robot. Currently, my research has focused at improving grasping techniques for robotic manipulators using surface characteristics.
+My research is focused on robotic systems. I work primarily with robotic perception and controls for dynamical system. The problems that I tackle lie at the confluence of optimization, decision theory and information fusion. My aim is to develop the research skills and a robust knowledge base to be able to work with the complete stack of robots in manufacturing settings. Currently, my research has focused at improving grasping techniques for robotic manipulators using surface characteristics and utilizing perception for robotic learning.
 
 I completed my Masters' in Mechanical Engineering (Robotics and Mechatronic systems) from the University of Pennsylvania. Here I worked and learned about several aspects of robotics such as, optimal control, motion planning, path planning, and state estimation. 
 
