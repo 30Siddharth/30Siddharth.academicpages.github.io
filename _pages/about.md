@@ -20,4 +20,4 @@ I like solving puzzles, playing badminton or football, and reading books in my f
 
 *This is my new wesbite and it is still under works. Some of the information is missing. If you are interested to know more, please feel free to drop me an email.*
 
-The PDF of my [CV](https://drive.google.com/file/d/1jCUgp8DP6XjSHzLD8XMzDsKY9_uXlNk3/view?usp=share_link).
+The PDF of my [CV](https://drive.google.com/file/d/11CQVBYWAAf_T2bvPbX1DYQV94vMeT-10/view?usp=sharing).
