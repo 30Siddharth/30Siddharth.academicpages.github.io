@@ -42,18 +42,11 @@ Skills
 
 Publications
 ======
-[J1]* **Singh S.** & Furukawa T., Photometric Stereo of Surfaces with Heterogeneous Reflection using Adaptive Diffuse-Specular Segregation, Journal or Mathematical Imaging and Vision, Springer, 2023, https://doi.org/10.21203/rs.3.rs-2464826/v1  *Under Review* 
+[J1] Smith W., Qin Y., **Singh S.**, Burke H., Furukawa T., Dissanayake G., A Multistage Framework for Autonomous Robotic Mapping with Targeted Metrics. Robotics 2023, 12, 39. https://doi.org/10.3390/robotics12020039
 
-[J2] Smith W., Qin Y., **Singh S.**, Burke H., Furukawa T., Dissanayake G., A Multistage Framework for Autonomous Robotic Mapping with Targeted Metrics. Robotics 2023, 12, 39. https://doi.org/10.3390/robotics12020039
+[C1] **Singh S.**, Smith K. & Furukawa T., Photometric Stereo Enhanced Light Sectioning Approach for Microtexture Road Profiling, Proceedings of the ASME 2022 IDTEC/CIE Conference. St. Louis, Missouri, USA. August 14–17, 2022.
 
-[C1]* **Singh S.**, and Furukawa T., Robust Statistical Approach for Separating Lambertian and Non-Lambertian
-Observations for Photometric Stereo using color DRM, Conference on Robotics and Vision, 2023, *Under Review*
-
-[C2]* Smith W., **Singh S.**, Guan Y. & Rudy J., Smooth Trajectory Planning of Mobile Manipulators using Lie Theory Optimization, IEEE International Conference on Intelligent Robots and Systems, 2023, *Under Review*
-
-[C3] **Singh S.**, Smith K. & Furukawa T., Photometric Stereo Enhanced Light Sectioning Approach for Microtexture Road Profiling, Proceedings of the ASME 2022 IDTEC/CIE Conference. St. Louis, Missouri, USA. August 14–17, 2022.
-
-[C4] Smith K., Lothrop H., **Singh S.**, & Furukawa T., Design of a Photometric Stereo Based Depth Camera for Robotic 3D Reconstruction, 2023 International Conference on Precision Engineering and Mechanical Manufacturing, Atlanta, Georgia, USA, January 11-14, 2023
+[C2] Smith K., Lothrop H., **Singh S.**, & Furukawa T., Design of a Photometric Stereo Based Depth Camera for Robotic 3D Reconstruction, 2023 International Conference on Precision Engineering and Mechanical Manufacturing, Atlanta, Georgia, USA, January 11-14, 2023
   
 Talks
 ======
