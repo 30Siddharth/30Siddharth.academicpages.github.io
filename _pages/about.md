@@ -10,7 +10,7 @@ redirect_from:
 Hello!
 I am Ph.D. student in the Mechanical and Aerospace Engineering Department, University of Virginia.
 
-My research is focused on robotic systems. I have worked on problems ranging from design & fabrication to perception & learning. In general, I enjoy working on problems which requires one to identify underlying structures and transferring analogies. I currently focus on long-horizon task and motion planning for robotic systems. 
+My research is focused on robotic systems. I have worked on problems ranging from design & fabrication to perception & learning. I currently focus on long-horizon task and motion planning for robotic systems. 
 
 I completed my M.S.E in Mechanical Engineering (Robotics and Mechatronic systems) from the University of Pennsylvania. Here I worked and learned about several aspects of robotics such as, optimal control, motion planning, path planning, and state estimation. 
 
