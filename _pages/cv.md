@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-  <iframe src="30Siddharth.github.io/files/Siddharth_CV_Oct24.pdf" width="100%" height="600px"></iframe>
+  <iframe src="{{ site.baseurl }}/files/Siddharth_CV_Oct24.pdf" width="100%" height="600px"></iframe>
