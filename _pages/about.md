@@ -18,4 +18,4 @@ I finished my B.E. from Netaji Subhas Institute of Technology, University of Del
 
 I like solving puzzles, playing badminton or football, and reading books in my free time.
 
-The PDF of my [CV](https://drive.google.com/file/d/11CQVBYWAAf_T2bvPbX1DYQV94vMeT-10/view?usp=sharing).
+The PDF of my [CV](https://drive.google.com/file/d/1Dr9xlVpl4OTxIDJ92QD2gsH4p8TqUBq5/view?usp=sharing).
