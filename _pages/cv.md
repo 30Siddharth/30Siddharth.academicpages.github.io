@@ -11,15 +11,15 @@ redirect_from:
 
 Research Interests
 ===
-Autonomous Systems, Mobile Robots, Path Planning, Motion Planning, Navigation, 3D Reconstruction\
+Autonomous Systems, Mobile Robots, Reinforcement Learning, Path Planning, Motion Planning, Navigation, 3D Reconstruction\
 
-As robots make their way into our daily lives, one of the primary goals is to make them more independent. An essential aspect of this problem is to devise reliable methods combining cognitive decision-making with dynamical systems. My research lies at the confluence of dynamical system planning and modeling information gained from machine vision. Specifically, I am interested in developing novel sensing abstractions and studying how to leverage the gained information to improve the physical interaction between robots and their surroundings. I wish to study the comparisons between integrating implicit understanding and explicit modeling (probabilistic/deterministic) into the planning stage of dynamic tasks while trying to quantify the feasibility of the tasks. Examples of such problems are but are not limited to, robotic grasping, heterogeneous material manipulation, texture-aware gripping, and mobile manipulation. I will use my research to make robots more reliable, achieving their assigned task safely with little or no supervision while being *mindful* of their surroundings, especially the humans.
+My research focuses on developing solutions for robotic problems which can be implemented in real-life environments. The emphasis of my research is to reduce computation for long horizon planning tasks by leveraging human demonstrations, diffusion models and hierarchical learning.
 
 Education
 ======
-* Ph.D in Mechanical and Aerospace Engineering, University of Virginia
-* M.S.E. in Mechanical Engineering and Applied Mechanics, University of Pennsylvania, 2020
-* B.E. in Manufacturing Process and Automation Engineering, NSIT, Delhi University, 2018
+* Ph.D in Mechanical and Aerospace Engineering, University of Virginia, 2021-Ongoing
+* M.S.E. in Mechanical Engineering and Applied Mechanics, University of Pennsylvania, 2018-2020
+* B.E. in Manufacturing Process and Automation Engineering, NSIT, Delhi University, 2014-2018
 
 Work experience
 ======
@@ -42,11 +42,7 @@ Skills
 
 Publications
 ======
-[J1] Smith W., Qin Y., **Singh S.**, Burke H., Furukawa T., Dissanayake G., A Multistage Framework for Autonomous Robotic Mapping with Targeted Metrics. Robotics 2023, 12, 39. https://doi.org/10.3390/robotics12020039
-
-[C1] **Singh S.**, Smith K. & Furukawa T., Photometric Stereo Enhanced Light Sectioning Approach for Microtexture Road Profiling, Proceedings of the ASME 2022 IDTEC/CIE Conference. St. Louis, Missouri, USA. August 14–17, 2022.
-
-[C2] Smith K., Lothrop H., **Singh S.**, & Furukawa T., Design of a Photometric Stereo Based Depth Camera for Robotic 3D Reconstruction, 2023 International Conference on Precision Engineering and Mechanical Manufacturing, Atlanta, Georgia, USA, January 11-14, 2023
+For list of publications please check my [Google Scholar](https://scholar.google.com/citations?user=OIjMBekAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Siddharth_Singh79)
   
 Talks
 ======
