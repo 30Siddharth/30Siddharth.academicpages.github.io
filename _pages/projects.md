@@ -22,8 +22,8 @@ System Identification has been studied in great depth in the field of controls t
 
 * Mechatronics
 Here a few videos showing the mechatronic projects I have worked on in the past.
-- [PinBall](https://youtube.com/shorts/W9b0Tk9dg5Y?si=0p0yfvlbf0ICOnWY)
-- [Tower Capture Robot: Kylo Ren](https://www.youtube.com/watch?v=FdA8TN68i90)
-- [RC Racer: Mercurial](https://youtube.com/shorts/7sEKJqyf8c8?si=RJPjKVJZCaSEC7Xh)
+    - [PinBall](https://youtube.com/shorts/W9b0Tk9dg5Y?si=0p0yfvlbf0ICOnWY)
+    - [Tower Capture Robot: Kylo Ren](https://www.youtube.com/watch?v=FdA8TN68i90)
+    - [RC Racer: Mercurial](https://youtube.com/shorts/7sEKJqyf8c8?si=RJPjKVJZCaSEC7Xh)
 
 
